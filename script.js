@@ -6,12 +6,12 @@ let plasticImg;
 let phoneImg;
 
 function preload() {
-    cowImg = loadImage('/img/cow.png');
-    pigImg = loadImage('/img/pig.png');
-    chickenImg = loadImage('/img/chicken.png');
-    treeImg = loadImage('/img/tree.png');
-    plasticImg = loadImage('/img/plastic.png');
-    phoneImg = loadImage('/img/ewaste.png');
+    cowImg = loadImage('img/cow.png');
+    pigImg = loadImage('img/pig.png');
+    chickenImg = loadImage('img/chicken.png');
+    treeImg = loadImage('img/tree.png');
+    plasticImg = loadImage('img/plastic.png');
+    phoneImg = loadImage('img/ewaste.png');
 }
 
 function setup(){
