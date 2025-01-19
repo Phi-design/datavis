@@ -1,0 +1,23 @@
+body {
+    /* CODE GOES HERE */
+}
+
+h1 {
+    text-align: center;
+    font-size: 140px !important;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+}
+
+canvas {
+    width:100% !important;
+    height:auto !important;
+    margin-bottom: 40px !important;
+}
+
+.intro {
+    margin-bottom: 40px;
+}
+
+.explanation {
+    margin-bottom: 40px;
+}
